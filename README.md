@@ -40,3 +40,5 @@ Dark theme design with light text for better contrast.
 Responsive layout using percentage widths and media queries.
 Clean and modern aesthetic with a centered form container.
 Smooth user experience with consistent input styling.
+![Screenshot](./images/Screenshot%20(78).png)
+![Screenshot](./images/Screenshot%20(79).png)
